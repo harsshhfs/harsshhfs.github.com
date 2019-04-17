@@ -45,7 +45,7 @@ exclude:
 - Rakefile
 - changelog.md
 pygments: true
-tagline: Site Tagline
+tagline: Portfolio
 production_url: https://harssh.github.io
 JB:
   version: 0.3.0
