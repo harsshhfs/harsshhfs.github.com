@@ -46,7 +46,7 @@ exclude:
 - changelog.md
 pygments: true
 tagline: Site Tagline
-production_url: http://username.github.io
+production_url: https://harssh.github.io
 JB:
   version: 0.3.0
   BASE_PATH: false
