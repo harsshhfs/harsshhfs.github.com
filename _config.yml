@@ -51,7 +51,6 @@ JB:
   version: 0.3.0
   BASE_PATH: false
   ASSET_PATH: false
-  archive_path: "/archive.html"
   categories_path: "/categories.html"
   tags_path: "/tags.html"
   atom_path: "/atom.xml"
