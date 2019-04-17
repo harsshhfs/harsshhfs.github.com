@@ -20,8 +20,8 @@ tagline: Site Tagline
 author:
   name: Harssh S Shrivastava
   email: harssh122@gmail.com
-  github: harsshhfs
-  twitter: harssh219
+  github: harssh
+  twitter: IamStackDev
 production_url: http://username.github.io
 JB:
   version: 0.3.0
@@ -55,6 +55,6 @@ JB:
       token: _MIXPANEL_TOKEN_
     piwik:
       baseURL: myserver.tld/piwik
-      idsite: '1'
+      idsite: 1
   sharing:
     provider: false
