@@ -12,8 +12,12 @@ subtitle: by Harssh S Shrivastava
 email: harssh122@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under
   the Creative Commons.
-url:
+url: 
 author:
+  name: Harssh S Shrivastava
+  email: harssh122@gmail.com
+  github: harssh
+  twitter: IamStackDev
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
@@ -22,15 +26,15 @@ country: United States of America
 phone: "(716) 555-5555"
 tiles-source: pages
 tiles-count: 6
-500px_url:
-facebook_url:
-github_url:
+500px_url: 
+facebook_url: 
+github_url: 
 gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
+pinterest_url: 
+slack_url: 
 twitter_url: https://twitter.com/andrewbanchich
 markdown: kramdown
 sass:
@@ -44,11 +48,6 @@ exclude:
 - changelog.md
 pygments: true
 tagline: Site Tagline
-author:
-  name: Harssh S Shrivastava
-  email: harssh122@gmail.com
-  github: harssh
-  twitter: IamStackDev
 production_url: http://username.github.io
 JB:
   version: 0.3.0
@@ -77,7 +76,7 @@ JB:
     google:
       tracking_id: UA-123-12
     getclicky:
-      site_id:
+      site_id: 
     mixpanel:
       token: _MIXPANEL_TOKEN_
     piwik:
