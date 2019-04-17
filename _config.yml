@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-timezone: UTC
+timezone: America/Chicago
 collections:
   posts:
     title: Posts
@@ -18,24 +18,22 @@ author:
   email: harssh122@gmail.com
   github: harssh
   twitter: IamStackDev
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 115 2nd Ave South
+city: Minneapolis
+state: MN
+zip_code: 55401
 country: United States of America
-phone: "(716) 555-5555"
+phone: "(763) 283-844"
 tiles-source: pages
 tiles-count: 6
 500px_url: 
 facebook_url: 
-github_url: 
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/harssh
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/harssh
 pinterest_url: 
 slack_url: 
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/IamStackDev
 markdown: kramdown
 sass:
   style: compressed
@@ -47,13 +45,12 @@ exclude:
 - Rakefile
 - changelog.md
 pygments: true
-tagline: Site Tagline
-production_url: http://username.github.io
+tagline: Portfolio
+production_url: https://harssh.github.io
 JB:
   version: 0.3.0
   BASE_PATH: false
   ASSET_PATH: false
-  archive_path: "/archive.html"
   categories_path: "/categories.html"
   tags_path: "/tags.html"
   atom_path: "/atom.xml"
