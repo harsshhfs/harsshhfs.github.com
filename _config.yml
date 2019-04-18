@@ -139,34 +139,30 @@ projects:
     tagline: A responsive Bootstrap one page theme designed to help app developers
       promote their mobile apps
 publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+  title: 
+  intro: 
   papers:
-  - title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-  - title: 'Genetic Programming III: Darwinian Invention &amp; Problem Solving'
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn.
-      (1999)
-  - title: A syntax directed compiler for Algol 60
-    authors: Edgar T. Irons
-    conference: Comm. ACM 4 (1961), 51–55
+  - title: 
+    authors: 
+    conference: 
+  - title: 
+    authors: 
+    conference: 
+  - title: 
+    authors: 
+    conference: 
 skills:
   title: Skills &amp; Proficiency
   toolset:
-  - name: Python & Django
+  - name: 'Ruby On Rails '
     level: 98%
   - name: Javascript & jQuery
     level: 98%
-  - name: Angular
+  - name: Ruby
     level: 98%
   - name: HTML5 & CSS
     level: 95%
-  - name: Ruby on Rails
+  - name: AWS
     level: 85%
   - name: Sketch & Photoshop
     level: 60%
