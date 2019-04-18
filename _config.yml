@@ -70,41 +70,58 @@ experiences:
 - role: Software Engineer/Ruby On Rails developer
   time: 2015 - Present
   company: Sullivan Cotter, Minneapolis
-  details: "Modify existing software to correct errors, to adapt it to new hardware,
-    or to upgrade interfaces and improve performance.\nAnalyze information to determine,
-    recommend, and plan installation of a new system or modification of an existing
-    system.\nVerify stability, interoperability, portability, security, or scalability
-    of system architecture.\nReview code  and own complete production and UAT deployment
-    cycle.\nOwn feature requirement and end to end development.\nRefactored legacy
-    code, upgrade. Implement CI/build systems.\nManage and develop multi portal sign
-    on API.\nDevelop data endpoint APIS for other applications.\nManage security and
-    access to AWS EC2 and Database RDS instances.\nTechnologies: Ruby, Ruby on Rails,
-    JavaScript, CSS,Travis-Ci, HTML, Rack, Capistrano, Cucumber, Rspec,  Mysql, Airbrake,
-    Jquery. "
-- role: Senior Software Engineer
+  details: "  - Modify existing software to correct errors, to adapt it to new hardware,
+    or to upgrade interfaces and improve performance.\n  - Analyze information to
+    determine, recommend, and plan installation of a new system or modification of
+    an existing system.\n  - Verify stability, interoperability, portability, security,
+    or scalability of system architecture.\n  - Review code  and own complete production
+    and UAT deployment cycle.\n  - Own feature requirement and end to end development.\n
+    \ - Refactored legacy code, upgrade. Implement CI/build systems.\n  - Manage and
+    develop multi portal sign on API.\n  - Develop data endpoint APIS for other applications.\n
+    \ - Manage security and access to AWS EC2 and Database RDS instances.\n  - Technologies:
+    Ruby, Ruby on Rails, JavaScript, CSS,Travis-Ci, HTML, Rack, Capistrano, Cucumber,
+    Rspec,  "
+- role: Software Engineer/ROR
+  time: Jan 2015 - Dec 2015
+  company: Novaquad, Edison
+  details: "  - Convert requirements into functional specifications.\n  - Responsible
+    for managing MongoDB sharding cluster.\n  - Developed pixel scripts to track user
+    data.\n  - Refactored legacy code, upgraded applications from Rails 2.3 3.0 to
+    Rails 4. \n  - Code reviews, security audits and performance analysis.\n  - Implemented
+    Rspec for automating the test of business scenarios.\n  - Implementation of front
+    end designs.\n  - Technologies: Ruby, Rails, devise, masonryJS, foundationJS,
+    devise, jQuery, HTML, PostgresSQL, passenger, nginx\n"
+- role: Software Developer
   time: 2014 - 2015
-  company: Google, London
-  details: |
-    Describe your role here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-    Cum sociis natoque penatibus et magnis dis parturient montes,
-    nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    pellentesque eu, pretium quis, sem.
-
-      - Bullet point
-      - Bullet point
-- role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: |
-    Describe your role here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-    Cum sociis natoque penatibus et magnis dis parturient montes,
-    nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    pellentesque eu, pretium quis, sem.
-
-      - Bullet point
-      - Bullet point
+  company: Aretove Technologies, Pune
+  details: |2-
+      - Collaborated with Product Management and User Experience experts regarding product definition, schedule, scope and project-related decisions.
+      - Planned and carried out daily scrums, weekly estimations and retrospectives and pair programming.
+      - Mange exceptions and notification via Airbrake.
+      - Created public and private APIs and Rubygems for external integration. Created API documentation for internal and external consumers.
+      - Experience with relational databases including schema design, tuning and scalability  and ORM tools like ActiveRecord.
+      - Participated in modeling complex database table and relationships.
+      - Developed test plans to simulate user traffic for stress testing of the website.
+      - Responsible for product software builds, software release notes, and product updates via Capistrano.
+      - Deployed application on Rackspace Cloud server using nginx and passenger.
+      - Utilized BDD with Rspec to drive functionality and to ensure proper implementation of new features.
+      - Implemented Travis-CI for continuous integration development.
+      - Technologies: Ruby on Rails, JavaScript, CSS, HTML, Rack, Shell, Capistrano, Cucumber, Rspec, PostgrSql, Bootstrap and jQuery.
+- role: Software Developer
+  time: 2012 - 2013
+  company: Headfitted Solutions, Pune
+  details: |2-
+      - Requirement analysis and detailing of high-level architecture to low level modules.
+      - Configured CRON jobs and background tasks to take backup and maintenance of data.
+      - Integrated Cucumber and Capybara web kit with selenium for Integration testing.
+      - Ajaxified the requests to modernize the website architecture.
+      - Integrated Rspec for Unit testing of models and controllers.
+      - Integrated Spree and Refinery CMS to use same authentication methods.
+      - Created plug-ins and extensions member management.
+      - Added feature to have multi-tenants and multi vendors.
+      - Contributed in spree and refinery CMS gems during the development process.
+      - Created and managed stories, tasks on Redmine.
+      - Technologies Used: Ruby on Rails, JavaScript, CSS, HTML, Rack, Shell, Capistrano, Cucumber, Rspec, Bootstrap, Jquery, MySQL
 projects:
   title: Projects
   intro: 'You can list your side projects or open source libraries in this section.
