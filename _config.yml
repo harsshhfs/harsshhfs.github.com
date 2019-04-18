@@ -12,7 +12,7 @@ url: https://harssh.github.io
 baseurl: "/"
 description: Harssh S Shrivastava Full Stack Ruby On Rails developer.
 theme_skin: blue
-chrome_mobile_color:
+chrome_mobile_color: 
 analytics: UA-138598737-1
 sass:
   sass_dir: _sass
@@ -37,12 +37,12 @@ sidebar:
   website: github.com/harssh
   linkedin: harssh
   github: harssh
-  gitlab:
-  bitbucket:
+  gitlab: 
+  bitbucket: 
   twitter: "@IamStackDev"
   stack-overflow: 1863010/magnum
-  codewars:
-  goodreads:
+  codewars: 
+  goodreads: 
   languages:
   - idiom: English
     level: Professional
@@ -139,18 +139,18 @@ projects:
     tagline: A responsive Bootstrap one page theme designed to help app developers
       promote their mobile apps
 publications:
-  title:
-  intro:
+  title: 
+  intro: 
   papers:
-  - title:
-    authors:
-    conference:
-  - title:
-    authors:
-    conference:
-  - title:
-    authors:
-    conference:
+  - title: 
+    authors: 
+    conference: 
+  - title: 
+    authors: 
+    conference: 
+  - title: 
+    authors: 
+    conference: 
 skills:
   title: Skills &amp; Proficiency
   toolset:
