@@ -67,22 +67,20 @@ education:
       - Bullet point
       - Bullet point
 experiences:
-- role: Lead Developer
+- role: Software Engineer/Ruby On Rails developer
   time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: |
-    Describe your role here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-    Cum sociis natoque penatibus et magnis dis parturient montes,
-    nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-    enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-    error sit voluptatem accusantium doloremque laudantium, totam rem
-    aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-    architecto beatae vitae dicta sunt explicabo.
-
-      - Bullet point
-      - Bullet point
+  company: Sullivan Cotter, Minneapolis
+  details: "Modify existing software to correct errors, to adapt it to new hardware,
+    or to upgrade interfaces and improve performance.\nAnalyze information to determine,
+    recommend, and plan installation of a new system or modification of an existing
+    system.\nVerify stability, interoperability, portability, security, or scalability
+    of system architecture.\nReview code  and own complete production and UAT deployment
+    cycle.\nOwn feature requirement and end to end development.\nRefactored legacy
+    code, upgrade. Implement CI/build systems.\nManage and develop multi portal sign
+    on API.\nDevelop data endpoint APIS for other applications.\nManage security and
+    access to AWS EC2 and Database RDS instances.\nTechnologies: Ruby, Ruby on Rails,
+    JavaScript, CSS,Travis-Ci, HTML, Rack, Capistrano, Cucumber, Rspec,  Mysql, Airbrake,
+    Jquery. "
 - role: Senior Software Engineer
   time: 2014 - 2015
   company: Google, London
