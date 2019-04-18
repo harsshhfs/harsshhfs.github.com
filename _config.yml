@@ -13,7 +13,7 @@ baseurl: "/"
 description: Harssh S Shrivastava Full Stack Ruby On Rails developer.
 theme_skin: blue
 chrome_mobile_color: 
-analytics: UA-83979
+analytics: UA-138598737-1
 sass:
   sass_dir: _sass
   style: compressed
