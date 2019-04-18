@@ -48,14 +48,11 @@ sidebar:
     level: Professional
 career-profile:
   title: Career Profile
-  summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-
-    Second paragraph if required.
+  summary: "Full Stack Developer/ Ruby On Rails Engineer with 7+ years experience
+    developing robust code for high-volume businesses and startups. Experienced in
+    E-Commerce, healthcare compensation, analytics and survey based products. Increased
+    code-efficiency and upgrades for multiple businesses. An enthusiast for open source
+    and team player. \nKeen to have feature ownership."
 education:
 - degree: BE in Information Technology
   university: University of Pune
