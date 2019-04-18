@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: http://webjeda.com
+url: https://harssh.github.io
 baseurl: "/"
 description: A beautiful Jekyll theme for creating resume
 theme_skin: blue
