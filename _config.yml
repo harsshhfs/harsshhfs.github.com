@@ -202,7 +202,4 @@ skills:
   - name: Redis
     level: 60%
 footer: 'Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying
-  Riley</a>
-plugins:
-  - jekyll-seo-tag
-'
+  Riley</a> plugins: - jekyll-seo-tag '
