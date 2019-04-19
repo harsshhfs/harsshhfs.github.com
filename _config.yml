@@ -46,9 +46,9 @@ sidebar:
   languages:
   - idiom: English
     level: Professional
-plugins: 
- - jekyll-seo-tag
- - jekyll-sitemap    
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
 career-profile:
   title: Career Profile
   summary: "Full Stack Developer/ Ruby On Rails Engineer with 7+ years experience
@@ -204,5 +204,5 @@ skills:
     level: 85%
   - name: Redis
     level: 60%
-footer: 'Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>' 
-
+footer: Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying
+  Riley</a>
