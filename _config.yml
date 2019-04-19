@@ -54,7 +54,7 @@ career-profile:
     code-efficiency and upgrades for multiple businesses. An enthusiast for open source
     and team player. \nKeen to have feature ownership."
 education:
-- degree: BE in Information Technology
+- degree: Bachelor Of Engineering  in Information Technology
   university: University of Pune
   time: 2008 - 2012
   details: |
@@ -124,32 +124,55 @@ experiences:
       - Technologies Used: Ruby on Rails, JavaScript, CSS, HTML, Rack, Shell, Capistrano, Cucumber, Rspec, Bootstrap, Jquery, MySQL
 projects:
   title: Projects
-  intro: 'You can list your side projects or open source libraries in this section.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula
-    in nunc bibendum fringilla a eu lectus.
-
-'
+  intro: 
   assignments:
-  - title: Velocity
+  - title: HealthCare Compensation Analytics and Survey Application
     link: "#hook"
-    tagline: A responsive website template designed to help startups promote, market
-      and sell their products.
-  - title: DevStudio
+    tagline: Web-App developed in Ruby on Rails for analyzing healthcare firms , large
+      clinic and executives compensation. Generate report for clients to give competitive
+      edge.
+  - title: PebblePost
     link: "#"
-    tagline: A responsive website template designed to help web developers/designers
-      market their services.
-  - title: Tempo
+    tagline: 'PebblePost matches online actions with offline demographics to send
+      timely, intent-driven direct mail. '
+  - title: Motista
     link: "#"
-    tagline: A responsive website template designed to help startups promote their
-      products or services and to attract users &amp; investors
-  - title: Atom
+    tagline: |
+      Motista's Intelligence measures your brand's emotional connection and precisely models the emotions most motivating consumers to choose you.
+      Through a combination of strategic reports, on-demand web analytics and expert services, Motista provides intelligence on emotional connection for your brand, competitors, products and segments.
+  - title: 'Online Booking Portal '
     link: "#"
-    tagline: A comprehensive website template solution for startups/developers to
-      market their mobile apps.
-  - title: Delta
+    tagline: "Online Salon Booking Portal – A discovery and booking platform for best
+      salons & spas. \nThis website simplifies the booking process where members can
+      schedule their monthly maintenance, discover new beauty destinations or find
+      a last-minute appointment on a 24/7 basis. \nThe unique tech infrastructure
+      allows revealing a hidden supply of beauty appointments – including the 25%
+      that are cancelled at the last minute – and make them available to members in
+      real-time. \n"
+  - title: GTV
     link: "#"
-    tagline: A responsive Bootstrap one page theme designed to help app developers
-      promote their mobile apps
+    tagline: GTV is a video-sharing portal where you can access and share trending
+      videos from YouTube vimeo and other video sharing websites at one place. User
+      can add favorite channels and videos. Users can sign in through Facebook credentials
+      and share their videos.
+  - title: 'Wine Box CMS '
+    link: "#"
+    tagline: "CMS and e-commerce based application that enabled wine manufacturers
+      to add their products, reviews and content on-line. This platform allowed admins
+      to add CMS content as well manage multiple vendors and tenants.\nApplication
+      was built using Bootstrap plug-in and integrated with new relic [for application
+      monitoring] and pay-pal. \n"
+  - title: 'AppHera Dash '
+    link: "#"
+    tagline: |
+      Apphera as a platform, provides whole set of functionalities required for planning any kind of social media monitoring, social engagement platform, reputation management or SEO related activities.
+      This Application can be also used to scrap reviews of commercial places from reviewers.
+  - title: 'POGOMD Patient Portal '
+    link: "#"
+    tagline: PogoMD is the next generation in patient-physician communication platform;
+      it provides a centralized, secure hub for the flow of medical information across
+      the entire care continuum. Privacy is protected through military grade encrypted
+      tunnels between servers.
 publications:
   title: 
   intro: 
